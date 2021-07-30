@@ -1,24 +1,34 @@
 #  Here are my Bash Shortcuts
 ## 
-#### Change directories: cd directory
+#### cd : _Change directories_
 
-#### cd ~ :Go home
+#### cd ~ : _Go home_
 
-#### ls : lists items
+#### ls : _lists items_
 
-#### cd .. :Goes up one dir
+#### cd .. : _Goes up one dir_
 
-#### clear : clears the term
+#### clear : _clears the term_
 
-#### ls -a : lists hidden files
+#### ls -a : _lists hidden files_
 
-#### ls -l : lists more detail
+#### ls -l : _lists more detail_
 
-#### ls -la : lists details of hidden files
+#### ls -la : _lists details of hidden files_
 
-#### mkdir : Make a dir
+#### mkdir : _Make a dir_
 
-#### up arrow : repeats last command
+#### up arrow : _repeats last command_
+
+#### ctrl c : _stop_
+
+#### mv : _move or rename_
+
+#### rm : _remove_
+
+#### rm *.socks : _wildcard; remove all socks_
+
+#### cp : _copy_
 
 ## Git reminders
 #### git status
